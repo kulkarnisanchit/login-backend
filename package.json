@@ -1,7 +1,7 @@
 {
-  "name": "nodeapp",
+  "name": "login",
   "version": "1.0.0",
-  "description": "back end for a Software company",
+  "description": "Login backend with Node Server",
   "main": "app.js",
   "scripts": {
     "start": "node server.js",
