@@ -1,11 +1,11 @@
 {
-  "name": "firstApp",
+  "name": "nodeapp",
   "version": "1.0.0",
-  "description": "",
+  "description": "back end for a Software company",
   "main": "app.js",
   "scripts": {
     "start": "node server.js",
-    "server": "nodemon server.js", 
+    "server": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -15,6 +15,7 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
+    "gravatar": "^1.6.0",
     "jsonwebtoken": "^8.3.0",
     "mongoose": "^5.3.0",
     "passport": "^0.4.0",

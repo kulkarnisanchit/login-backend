@@ -1,3 +1,4 @@
 module.exports = {
-    mongoURI : 'mongodb://localhost/playgeound'
+    mongoURI : 'mongodb://localhost/nodedb',
+    secretOrKey: 'irsbrain'
 };
